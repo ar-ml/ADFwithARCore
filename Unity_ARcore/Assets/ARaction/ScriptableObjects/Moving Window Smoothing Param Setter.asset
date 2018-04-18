@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f58da91361644e24998ee0fc192cc4aa, type: 3}
+  m_Name: Moving Window Smoothing Param Setter
+  m_EditorClassIdentifier: 
+  uiPrefab: {fileID: 1982550935692372, guid: ae6147cc0ad9fe24ab345fbd00385550, type: 2}
+  intSliderPrefab: {fileID: 114410933641565660, guid: 2d038bc8a6686c94f8dbb7e6b288a1cf,
+    type: 2}
+  smoothingPrefab: {fileID: 11400000, guid: 595adbaaac0b5894cba54f73cd41329f, type: 2}

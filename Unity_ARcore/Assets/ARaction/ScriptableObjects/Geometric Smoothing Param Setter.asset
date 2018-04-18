@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89a8718caf0c4f4c99fefa5ac3f26f4, type: 3}
+  m_Name: Geometric Smoothing Param Setter
+  m_EditorClassIdentifier: 
+  uiPrefab: {fileID: 1295351209064786, guid: 502a829b36d5aac4bbc250012f9d0c57, type: 2}
+  zeroToOneSliderPrefab: {fileID: 114040921836514040, guid: 958dab6e7ebd75446b64e988abd0b31c,
+    type: 2}
+  smoothingPrefab: {fileID: 11400000, guid: 5926ef64ad9a85749aecb2a475d55b8c, type: 2}
